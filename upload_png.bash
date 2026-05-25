@@ -1,7 +1,7 @@
 #!/bin/bash
 
-STORAGE_ACCOUNT="shopperaicatalog"
-CONTAINER="supplier-products"
+STORAGE_ACCOUNT=""
+CONTAINER=""
 
 FILE_PATH="$1"
 shift
